@@ -227,10 +227,27 @@ header .navbar .dropdown-menu a {
 }
 
 .about_container {
-  height: 500px; 
-  width: 300px; 
-  background-color: white; 
+  height: 1000px; 
+  width: 80%; 
+  position: relative;
+  text-align: center;
+  color: white;
 }
+
+.about_title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black; 
+  
+}
+
+.about_text {
+
+}
+
+
 
 .a-block {
   display: block;

@@ -226,6 +226,12 @@ header .navbar .dropdown-menu a {
   margin-right: 10px;
 }
 
+.about_container {
+  height: 500px; 
+  width: 300px; 
+  background-color: white; 
+}
+
 .a-block {
   display: block;
   background-size: cover;
